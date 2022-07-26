@@ -3,6 +3,8 @@
     list-style-position: inside;
 }
     
-ol{
+ol,ul{
     text-align: center;
+    margin: auto;
+    display: table;
 }    
